@@ -88,7 +88,7 @@ webencodings==0.5.1
 websocket-client==1.2.3
 websockets==10.2
 xarray
-anyio==2.1.0
+anyio
 argon2-cffi==20.1.0
 async-generator==1.10
 attrs==20.3.0
